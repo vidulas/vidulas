@@ -3,16 +3,15 @@
 
 - 🚀 I’m currently learning **AI/ML Algorithms & Data Analysis**
 
-- 🔧 Skills [Python, Data Analysis, AI/ML Algorithms, Data Visualization, JavaScript, HTML, CSS, Tailwind, JSX](Python, Data Analysis, AI/ML Algorithms, Data Visualization, JavaScript, HTML, CSS, Tailwind, JSX)
+- 🔧 Skills Python, Data Analysis, AI/ML Algorithms, Data Visualization, JavaScript, HTML, CSS, Tailwind, JSX
 
-- 🌱Open to [Collaborations on AI/ML projects and exploring innovative ideas and analysis.](Collaborations on AI/ML projects and exploring innovative ideas and analysis.)
-
+- 🌱Open to Collaborations on AI/ML projects and exploring innovative ideas and analysis.
 - 💡Interested **Current IT Professional | Interested in AI/ML Algorithms, Business & Data Analysis, Exploring Intelligent Systems and Data-Driven Solution**
 
 - 📫 How to reach me **vidulashavinda12@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/vidula gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidula gunasekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vidula gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidula gunasekara" height="30" width="40" /></a>
 <a href="https://fb.com/vidula gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidula gunasekara" height="30" width="40" /></a>
